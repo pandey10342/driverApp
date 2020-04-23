@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335342919989",
+    "firebase_url": "https://appetics-driver.firebaseio.com",
+    "project_id": "appetics-driver",
+    "storage_bucket": "appetics-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335342919989:android:29ca64a29cdd487cfaac7c",
+        "android_client_info": {
+          "package_name": "com.appetics.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335342919989-jj8dcvfg8duul1k0nh01jn9scu5nfd68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWzGJIk_9zDw1nDs_6BLQK370dO6TK1K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335342919989-jj8dcvfg8duul1k0nh01jn9scu5nfd68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
