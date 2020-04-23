@@ -1,0 +1,82 @@
+{
+  "nl.x-services.plugins.insomnia": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-insomnia@4.1.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-mauron85-background-geolocation": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-mauron85-background-geolocation@3.0.0-alpha.46"
+    },
+    "is_top_level": true,
+    "variables": {
+      "GOOGLE_PLAY_SERVICES_VERSION": "11.0.1",
+      "ANDROID_SUPPORT_LIBRARY_VERSION": "23+",
+      "ALWAYS_USAGE_DESCRIPTION": "App requires background tracking enabled",
+      "MOTION_USAGE_DESCRIPTION": "App requires motion detection",
+      "ICON": "@mipmap/icon",
+      "SMALL_ICON": "@mipmap/icon",
+      "ACCOUNT_NAME": "@string/app_name",
+      "ACCOUNT_LABEL": "@string/app_name",
+      "ACCOUNT_TYPE": "$PACKAGE_NAME.account",
+      "CONTENT_AUTHORITY": "$PACKAGE_NAME"
+    }
+  },
+  "uk.co.workingedge.phonegap.plugin.launchnavigator": {
+    "source": {
+      "type": "registry",
+      "id": "uk.co.workingedge.phonegap.plugin.launchnavigator@5.0.4"
+    },
+    "is_top_level": true,
+    "variables": {
+      "GOOGLE_API_KEY_FOR_ANDROID": "",
+      "OKHTTP_VERSION": "3.12.0"
+    }
+  },
+  "cordova-plugin-actionsheet": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-actionsheet@2"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-dialogs": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-dialogs@*"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-admob-free": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-admob-free"
+    },
+    "is_top_level": true,
+    "variables": {
+      "ADMOB_APP_ID": "ca-app-pub-6871330764548204~5867465548"
+    }
+  },
+  "cordova-promise-polyfill": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-promise-polyfill@~0.0.2"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-admob-sdk": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-admob-sdk@~0.24.1"
+    },
+    "is_top_level": false,
+    "variables": {}
+  }
+}
